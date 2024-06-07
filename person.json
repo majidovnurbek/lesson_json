@@ -1,0 +1,10 @@
+{
+          "Name": "Nurbek",
+          "surname": "majidov",
+          "email": "majiodv@gmail.com",
+          "full_name": {
+                    "first_name": "Nurbek",
+                    "last_name": "Majidov"
+          },
+          "age": 16
+}
